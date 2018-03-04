@@ -15,9 +15,7 @@ def comparison(a,b):
     	else:
         	print('a and b are not equall')
         	break
-#testgithub
-#ldfkoerfjiof
-#125485154715
+
 
 
 
